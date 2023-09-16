@@ -2,4 +2,4 @@
 
 > aitu web 01 assignment
 
-![preview](./github/preview.png)
+![preview](./.github/preview.png)
